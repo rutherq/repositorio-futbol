@@ -2,3 +2,5 @@ DESPIDOS MAS CAROS DE LA HISTORIA
 hito for me
 vuelta a la normalidad
 Inicio de versión
+
+Vuelta al main, podermos merge todas las ramas?? quien sabe, no devería haber conflictos en las que se llaman RamaX
